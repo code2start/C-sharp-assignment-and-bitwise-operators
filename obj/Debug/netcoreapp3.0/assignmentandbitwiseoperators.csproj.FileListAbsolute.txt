@@ -1,0 +1,11 @@
+C:\csharp\ar\assignmentandbitwiseoperators\bin\Debug\netcoreapp3.0\assignmentandbitwiseoperators.exe
+C:\csharp\ar\assignmentandbitwiseoperators\bin\Debug\netcoreapp3.0\assignmentandbitwiseoperators.deps.json
+C:\csharp\ar\assignmentandbitwiseoperators\bin\Debug\netcoreapp3.0\assignmentandbitwiseoperators.runtimeconfig.json
+C:\csharp\ar\assignmentandbitwiseoperators\bin\Debug\netcoreapp3.0\assignmentandbitwiseoperators.runtimeconfig.dev.json
+C:\csharp\ar\assignmentandbitwiseoperators\bin\Debug\netcoreapp3.0\assignmentandbitwiseoperators.dll
+C:\csharp\ar\assignmentandbitwiseoperators\bin\Debug\netcoreapp3.0\assignmentandbitwiseoperators.pdb
+C:\csharp\ar\assignmentandbitwiseoperators\obj\Debug\netcoreapp3.0\assignmentandbitwiseoperators.csprojAssemblyReference.cache
+C:\csharp\ar\assignmentandbitwiseoperators\obj\Debug\netcoreapp3.0\assignmentandbitwiseoperators.AssemblyInfoInputs.cache
+C:\csharp\ar\assignmentandbitwiseoperators\obj\Debug\netcoreapp3.0\assignmentandbitwiseoperators.AssemblyInfo.cs
+C:\csharp\ar\assignmentandbitwiseoperators\obj\Debug\netcoreapp3.0\assignmentandbitwiseoperators.dll
+C:\csharp\ar\assignmentandbitwiseoperators\obj\Debug\netcoreapp3.0\assignmentandbitwiseoperators.pdb
